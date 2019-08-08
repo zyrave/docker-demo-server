@@ -1,14 +1,19 @@
 {
   "name": "docker-demo-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Docker Demo Server with Apollo Server Express",
+  "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "express",
+    "graphql",
+    "apollo"
+  ],
   "author": "Herry Roby",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "apollo-server-express": "^2.8.1",
     "express": "^4.17.1",

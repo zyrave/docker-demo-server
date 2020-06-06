@@ -15,7 +15,7 @@
   "author": "Herry Roby",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.8.1",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.17.1",
     "graphql": "^14.4.2"
   },
